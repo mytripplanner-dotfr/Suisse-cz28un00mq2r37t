@@ -1,0 +1,234 @@
+{
+  "pays": "Suisse",
+  "drapeau": "🇨🇭",
+  "symbole": "🏔️",
+  "titre": "Évasion Hivernale Relaxante au Cœur de la Suisse",
+  "budget_total": "Environ 1500-1600 €/personne",
+  "duree": "5 jours",
+  "date_debut": "2026-02-21",
+  "date_fin": "2026-02-25",
+  "temps_vol": "1h00 (train BSL-ZRH)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Lucerne & Charme Lacustre",
+      "legende": "Votre aventure débute par un voyage pittoresque vers Lucerne, une ville au charme médiéval. Après l'installation, une douce balade au bord du lac et la découverte de son pont emblématique vous plongeront immédiatement dans l'atmosphère sereine de la Suisse hivernale. Une première journée tout en douceur pour s'acclimater.",
+      "lieu": "Lucerne",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à Zurich et Transfert à Lucerne. Prenez le train direct de Bâle à Zurich (environ 1h), puis un autre train pour Lucerne (environ 45 min). Profitez des paysages hivernaux qui défilent.",
+        "<strong>🛏️</strong>: Installation à l'hôtel. Déposez vos bagages et détendez-vous après le voyage, avant de partir à la découverte de la ville.",
+        "<strong>🚶‍♀️</strong>: Balade au bord du Lac des Quatre-Cantons. Flânez le long des rives gelées, admirez les cygnes et les montagnes enneigées en toile de fond, offrant un panorama apaisant.",
+        "<strong>🌉</strong>: Découverte du Pont de la Chapelle (Kapellbrücke). Traversez ce pont en bois emblématique, orné de peintures historiques, et imprégnez-vous de l'atmosphère médiévale de Lucerne."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le réseau ferroviaire suisse est d'une ponctualité exemplaire. Le trajet de Bâle à Lucerne via Zurich est direct et très agréable."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏔️",
+      "titre": "Sérénité Alpine au Mont Rigi",
+      "legende": "Cette journée est dédiée à la découverte des paysages alpins et à la détente. Une croisière paisible sur le lac vous mènera au pied du Mont Rigi, où une ascension spectaculaire vous attend. Le point culminant sera un moment de pur bien-être dans des bains thermaux avec une vue imprenable sur les sommets enneigés.",
+      "lieu": "Lucerne / Mont Rigi",
+      "activites": [
+        "<strong>⛴️</strong>: Croisière hivernale sur le Lac des Quatre-Cantons. Embarquez pour une traversée paisible, offrant des vues imprenables sur les montagnes environnantes sous leur manteau blanc.",
+        "<strong>🏔️</strong>: Ascension du Mont Rigi (Reine des Montagnes). Prenez le train à crémaillère depuis Vitznau ou le téléphérique depuis Weggis pour atteindre le sommet et admirer un panorama à 360° sur les Alpes.",
+        "<strong>♨️</strong>: Détente au Mineralbad & Spa Rigi Kaltbad. Offrez-vous un moment de pur bien-être dans les eaux thermales avec vue sur les sommets enneigés, une expérience relaxante inoubliable."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare de Lucerne, Lucerne",
+          "categorie": "Gare",
+          "coords": { "lat": 47.0494, "lng": 8.3082 }
+        },
+        {
+          "nom_recherche": "Vitznau, Lucerne",
+          "categorie": "Village",
+          "coords": { "lat": 47.0000, "lng": 8.4800 }
+        },
+        {
+          "nom_recherche": "Rigi Kulm, Arth",
+          "categorie": "Montagne",
+          "coords": { "lat": 47.0550, "lng": 8.4880 }
+        },
+        {
+          "nom_recherche": "Mineralbad & Spa Rigi Kaltbad, Arth",
+          "categorie": "Spa",
+          "coords": { "lat": 47.0430, "lng": 8.4720 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce",
+          "texte": "Le Swiss Travel Pass couvre généralement les trajets en bateau et les ascensions de montagnes comme le Rigi, vérifiez les détails pour optimiser votre budget."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🐻",
+      "titre": "Charme Médiéval de Berne",
+      "legende": "Après un agréable trajet en train, vous découvrirez Berne, la capitale fédérale, classée au patrimoine mondial de l'UNESCO. Ses arcades médiévales et ses fontaines historiques invitent à une promenade paisible. La journée se terminera par une rencontre attendrissante avec les célèbres ours de la ville, symboles de Berne.",
+      "lieu": "Berne",
+      "activites": [
+        "<strong>🚆</strong>: Voyage pittoresque vers Berne. Profitez du trajet en train (environ 1h) à travers la campagne suisse, une transition douce vers la capitale fédérale.",
+        "<strong>🚶‍♀️</strong>: Exploration de la Vieille Ville de Berne (UNESCO). Flânez dans les arcades médiévales, découvrez les fontaines ornées et la célèbre Tour de l'Horloge (Zytglogge).",
+        "<strong>🐻</strong>: Visite du Parc aux Ours (BärenPark). Observez les ours bruns jouer et se reposer dans leur habitat naturel le long de l'Aar, un spectacle apaisant et amusant."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare de Berne, Berne",
+          "categorie": "Gare",
+          "coords": { "lat": 46.9489, "lng": 7.4400 }
+        },
+        {
+          "nom_recherche": "Zytglogge, Berne",
+          "categorie": "Monument",
+          "coords": { "lat": 46.9482, "lng": 7.4446 }
+        },
+        {
+          "nom_recherche": "BärenPark, Berne",
+          "categorie": "Parc animalier",
+          "coords": { "lat": 46.9470, "lng": 7.4570 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🛍️",
+          "titre": "Shopping",
+          "texte": "Les arcades de Berne abritent de nombreuses boutiques uniques, parfaites pour trouver des souvenirs ou des produits locaux à l'abri du froid."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🌆",
+      "titre": "Élégance Urbaine de Zurich",
+      "legende": "La journée vous mènera à Zurich, la plus grande ville de Suisse, alliant modernité et histoire. Une promenade sur la célèbre Bahnhofstrasse vous fera découvrir son élégance, suivie par la visite de ses églises emblématiques. Terminez la journée par une pause gourmande au bord du lac, pour un moment de quiétude urbaine.",
+      "lieu": "Zurich",
+      "activites": [
+        "<strong>🚆</strong>: Transfert vers Zurich. Prenez le train de Berne à Zurich (environ 1h), en admirant les paysages qui défilent.",
+        "<strong>🛍️</strong>: Balade le long de la Bahnhofstrasse. Découvrez cette avenue commerçante élégante, parfaite pour une promenade relaxante et l'observation de l'architecture.",
+        "<strong>⛪</strong>: Visite du Grossmünster et du Fraumünster. Admirez ces deux églises emblématiques de Zurich, avec leurs vitraux remarquables et leur histoire fascinante.",
+        "<strong>☕</strong>: Pause gourmande au bord du Lac de Zurich. Savourez un chocolat chaud ou une pâtisserie dans un café avec vue sur le lac, un moment de quiétude."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare de Zurich, Zurich",
+          "categorie": "Gare",
+          "coords": { "lat": 47.3781, "lng": 8.5402 }
+        },
+        {
+          "nom_recherche": "Bahnhofstrasse, Zurich",
+          "categorie": "Rue commerçante",
+          "coords": { "lat": 47.3700, "lng": 8.5380 }
+        },
+        {
+          "nom_recherche": "Grossmünster, Zurich",
+          "categorie": "Église",
+          "coords": { "lat": 47.3690, "lng": 8.5440 }
+        },
+        {
+          "nom_recherche": "Fraumünster, Zurich",
+          "categorie": "Église",
+          "coords": { "lat": 47.3690, "lng": 8.5400 }
+        },
+        {
+          "nom_recherche": "Lac de Zurich, Zurich",
+          "categorie": "Lac",
+          "coords": { "lat": 47.3660, "lng": 8.5480 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎨",
+          "titre": "Culture",
+          "texte": "Les vitraux de Marc Chagall au Fraumünster sont une œuvre d'art à ne pas manquer, offrant une lumière et des couleurs exceptionnelles."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "👋",
+      "titre": "Départ de Zurich",
+      "legende": "Profitez d'un dernier petit-déjeuner suisse pour savourer les saveurs locales une dernière fois. Si le temps le permet, quelques achats de dernière minute vous permettront de ramener un peu de la Suisse chez vous. Il sera ensuite temps de prendre le chemin du retour, des souvenirs plein la tête.",
+      "lieu": "Zurich",
+      "activites": [
+        "<strong>☕</strong>: Dernier petit-déjeuner suisse. Profitez d'un dernier repas typique avant de partir, pour faire le plein d'énergie.",
+        "<strong>🛍️</strong>: Achats de dernière minute. Trouvez quelques souvenirs ou chocolats suisses pour prolonger le plaisir du voyage ou faire plaisir à vos proches.",
+        "<strong>🛬</strong>: Départ de Zurich. Prenez le train pour Bâle (environ 1h) pour votre \"vol\" de retour, la tête remplie de magnifiques souvenirs."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Les chocolats suisses, les couteaux suisses ou les montres sont des classiques indémodables à rapporter de votre voyage."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 310 €/pers (train BSL-ZRH A/R)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 280 €/pers (Swiss Travel Pass 4 jours)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 420 €/pers (30-40 €/repas)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 350 €/pers (base chambre double 3* à 175 €/nuit)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 150 €/pers (Mont Rigi, Spa, musées)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Février (pour l'ambiance hivernale et les sports de neige doux)", "symbole": "❄️" },
+    { "titre": "Juin-Septembre (pour la randonnée et les lacs)", "symbole": "☀️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En février, les températures varient entre -5°C et 5°C. Prévoyez des vêtements chauds, imperméables et des chaussures de marche adaptées à la neige.", "symbole": "🍁" },
+    { "titre": "La monnaie est le Franc Suisse (CHF). Les cartes de crédit sont largement acceptées. Prévoyez un peu de liquide pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Le réseau de transports publics (trains, bus, bateaux) est excellent et ponctuel. Le Swiss Travel Pass est fortement recommandé pour les déplacements.", "symbole": "🚆" },
+    { "titre": "Les langues officielles sont l'allemand, le français, l'italien et le romanche. L'anglais est couramment parlé dans les zones touristiques.", "symbole": "🗣️" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "La Suisse compte plus de sommets de 4000 mètres que tout autre pays d'Europe, et plus de 1500 lacs, ce qui en fait un paradis pour les amoureux de la nature et des paysages grandioses."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "En Suisse, il est illégal de posséder un seul cochon d'Inde. Ils doivent être au moins deux, car ce sont des animaux sociaux qui souffrent de solitude ! Une loi pour le bien-être animal très spécifique."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Fondue au fromage",
+      "description": "Un plat convivial et réconfortant, parfait pour les soirées d'hiver. Du fromage fondu servi avec du pain, des pommes de terre et parfois des cornichons, à partager entre amis."
+    },
+    {
+      "symbole": "🍴",
+      "titre": "Raclette",
+      "description": "Autre spécialité fromagère où le fromage est fondu et raclé directement sur des pommes de terre, accompagné de charcuterie, de petits oignons et de cornichons. Un délice simple et savoureux."
+    },
+    {
+      "symbole": "🍫",
+      "titre": "Chocolat suisse",
+      "description": "Réputé mondialement pour sa qualité et sa finesse. Ne manquez pas de goûter aux différentes variétés et de visiter une chocolaterie pour une expérience gourmande inoubliable."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols (Train BSL-ZRH)", "titre": "Réserve ton trajet", "url": "https://www.kayak.fr/flights/BSL-ZRH/2026-02-21/2026-02-25", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Suisse Tourisme", "url": "https://www.myswitzerland.com/fr/", "symbole": "📘" },
+    { "legende": "Horaires des transports", "titre": "CFF (Chemins de fer fédéraux)", "url": "https://www.sbb.ch/fr/home.html", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo Suisse", "url": "https://www.meteosuisse.admin.ch/home.html", "symbole": "🌤️" }
+  ]
+}
